@@ -1,0 +1,5 @@
+name: GGApplicantTest
+main: com.goodgaming.applicanttest.ApplicantTest
+version: 1.0
+author: ShowbizLocket61
+depend: [SparkAPI]
